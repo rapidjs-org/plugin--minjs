@@ -21,6 +21,6 @@ export default function(rJS, filesystem, config, isDev) {
             )
         );
     }, true);
-
+    
     return files;
 }
