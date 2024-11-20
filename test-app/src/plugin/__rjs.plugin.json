@@ -1,0 +1,11 @@
+{
+    "package": "../../../plugin/plugin.js",
+    "config": {
+        "outPath": "assets/js/",
+        "uglifyJSOptions": {
+            "output": {
+                "comments": "all"
+            }
+        }
+    }
+}
